@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>NEUTRAL TEXTS</title>
+                <author>mmarzo</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>mmarzo</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>empty</p>
+                <ab>
+                    <fs xml:id="CATMA_TECH_DESC">
+                        <f name="version">
+                            <string>5</string>
+                        </f>
+                    </fs>
+                </ab>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <fsdDecl xml:id="T_EEA2C593-5678-4965-A369-10E6F9F5C3C9" n="TAGSET HYLAND STANCE 326ad5aa882717109c20345391afc4634e3b6fb2">
+                <fsDecl xml:id="CATMA_A6F59118-9850-4EE9-8B4F-D27F3BB2E0CB" n="2025-05-07T16:14:57.000+0200" type="CATMA_A6F59118-9850-4EE9-8B4F-D27F3BB2E0CB">
+                    <fsDescr>ATT_NEG</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-58854</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>mmarzo</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_42B7F5CB-3A50-4D09-BE2C-64BE7C18477D" name="Negative_evaluation">
+                        <vRange>
+                            <vColl>
+                                <string>concerning</string>
+                                <string>negative</string>
+                                <string>problematic</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_F02EE69D-4571-4AFB-994E-9F2071DAC745" n="2025-05-07T16:14:57.000+0200" type="CATMA_F02EE69D-4571-4AFB-994E-9F2071DAC745">
+                    <fsDescr>ATT_POS:</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-15751424</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>mmarzo</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_26CB4295-FCFB-4483-8B17-118E3A4C6EEA" name="Positive_evaluation">
+                        <vRange>
+                            <vColl>
+                                <string>Excellent</string>
+                                <string>positive</string>
+                                <string>incredible</string>
+                                <string>recommended</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_E063564A-63BB-4D1E-9118-47DCD0E461FD" n="2025-05-07T16:14:57.000+0200" type="CATMA_E063564A-63BB-4D1E-9118-47DCD0E461FD">
+                    <fsDescr>BOOS</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-3675369</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>mmarzo</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_E67CEC4B-DF8F-4338-8231-17CCAAFA4355" name="Boosters">
+                        <vRange>
+                            <vColl>
+                                <string>must</string>
+                                <string>will</string>
+                                <string>obvious</string>
+                                <string>always</string>
+                                <string>demonstrate</string>
+                                <string>show</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_67CA3849-E817-4769-9796-0422CEF04CBC" n="2025-05-07T16:14:57.000+0200" type="CATMA_67CA3849-E817-4769-9796-0422CEF04CBC">
+                    <fsDescr>HED</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-9438209</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>mmarzo</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A8784E88-C61F-4F1A-A9D3-C9B58272D0AD" name="hedging">
+                        <vRange>
+                            <vColl>
+                                <string>could</string>
+                                <string>might</string>
+                                <string>would</string>
+                                <string>perhaps</string>
+                                <string>likely</string>
+                                <string>seem</string>
+                                <string>assume</string>
+                                <string>suggest</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_3E2CCA1F-AB06-4FB4-8CBF-B26E748CA01A" n="2025-05-07T16:14:57.000+0200" type="CATMA_3E2CCA1F-AB06-4FB4-8CBF-B26E748CA01A">
+                    <fsDescr>IRONY</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-37900</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>mmarzo</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AED96530-5FEF-4E3E-BC00-95C66D14C79C" name="Ironic_comment">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_5A903497-A91D-4CCA-884C-F9F68E231990" n="2025-05-07T16:14:57.000+0200" type="CATMA_5A903497-A91D-4CCA-884C-F9F68E231990">
+                    <fsDescr>SELF_MEN</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-8950839</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>mmarzo</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_882459BC-72A2-4880-88DA-5B7F556A8939" name="Self_mention">
+                        <vRange>
+                            <vColl>
+                                <string>I</string>
+                                <string>us</string>
+                                <string>we</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+            </fsdDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="catma"/>
+        </body>
+    </text>
+</TEI>
